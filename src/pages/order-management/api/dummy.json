@@ -1,0 +1,92 @@
+[
+  {
+    "no": 1,
+    "orderNumber": "xxx-1281323-YYTT9",
+    "createdAt": "12 March 2025",
+    "username": "@sophia",
+    "status": 1,
+    "total": "IDR 234,000",
+    "productIds": [1, 2, 1]
+  },
+  {
+    "no": 2,
+    "orderNumber": "yyy-3425423-ABCD1",
+    "createdAt": "15 April 2025",
+    "username": "@john",
+    "status": 2,
+    "total": "IDR 150,500",
+    "productIds": [1, 2, 2]
+  },
+  {
+    "no": 3,
+    "orderNumber": "zzz-9876543-EFGH2",
+    "createdAt": "20 May 2025",
+    "username": "@emily",
+    "status": 1,
+    "total": "IDR 320,800",
+    "productIds": [1, 2, 5]
+  },
+  {
+    "no": 4,
+    "orderNumber": "aaa-5678901-IJKL3",
+    "createdAt": "3 June 2025",
+    "username": "@david",
+    "status": 3,
+    "total": "IDR 80,000",
+    "productIds": [1, 2, 6]
+  },
+  {
+    "no": 5,
+    "orderNumber": "bbb-1234567-MNOP4",
+    "createdAt": "8 July 2025",
+    "username": "@lisa",
+    "status": 2,
+    "total": "IDR 410,200",
+    "productIds": [1, 2, 7]
+  },
+  {
+    "no": 6,
+    "orderNumber": "ccc-8765432-QRST5",
+    "createdAt": "12 August 2025",
+    "username": "@michael",
+    "status": 1,
+    "total": "IDR 185,300",
+    "productIds": [1, 2, 8]
+  },
+  {
+    "no": 7,
+    "orderNumber": "ddd-2345678-UVWX6",
+    "createdAt": "22 September 2025",
+    "username": "@sara",
+    "status": 2,
+    "total": "IDR 550,000",
+    "productIds": [1, 2, 9]
+  },
+  {
+    "no": 8,
+    "orderNumber": "eee-8765432-YZAB7",
+    "createdAt": "5 October 2025",
+    "username": "@jason",
+    "status": 1,
+    "total": "IDR 720,900",
+    "productIds": [1, 2, 7]
+  },
+  {
+    "no": 9,
+    "orderNumber": "fff-3456789-CDEF8",
+    "createdAt": "18 November 2025",
+    "username": "@amy",
+    "status": 3,
+    "total": "IDR 95,600",
+    "productIds": [1, 2, 6]
+  },
+  {
+    "no": 10,
+    "orderNumber": "ggg-9876543-GHIJ9",
+    "createdAt": "30 December 2025",
+    "username": "@peter",
+    "status": 1,
+    "total": "IDR 600,700",
+    "productIds": [1, 2, 4]
+  }
+]
