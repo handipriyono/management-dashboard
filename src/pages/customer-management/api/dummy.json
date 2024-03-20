@@ -1,0 +1,92 @@
+[
+  {
+    "no": 1,
+    "name": "Sophia",
+    "email": "sophia@test.com",
+    "username": "@sophia",
+    "address": "Address 1, City",
+    "status": 1,
+    "totalOrder": 42
+  },
+  {
+    "no": 2,
+    "name": "William",
+    "email": "william@mail.com",
+    "username": "@william",
+    "address": "Address 2, City",
+    "status": 0,
+    "totalOrder": 74
+  },
+  {
+    "no": 3,
+    "name": "Daniel",
+    "email": "daniel@example.com",
+    "username": "@daniel",
+    "address": "Address 3, City",
+    "status": 1,
+    "totalOrder": 18
+  },
+  {
+    "no": 4,
+    "name": "Isabella",
+    "email": "isabella@example.com",
+    "username": "@isabella",
+    "address": "Address 4, City",
+    "status": 0,
+    "totalOrder": 60
+  },
+  {
+    "no": 5,
+    "name": "Jacob",
+    "email": "jacob@example.com",
+    "username": "@jacob",
+    "address": "Address 5, City",
+    "status": 1,
+    "totalOrder": 88
+  },
+  {
+    "no": 6,
+    "name": "Michael",
+    "email": "michael@example.com",
+    "username": "@michael",
+    "address": "Address 6, City",
+    "status": 1,
+    "totalOrder": 10
+  },
+  {
+    "no": 7,
+    "name": "Emily",
+    "email": "emily@example.com",
+    "username": "@emily",
+    "address": "Address 7, City",
+    "status": 1,
+    "totalOrder": 35
+  },
+  {
+    "no": 8,
+    "name": "Matthew",
+    "email": "matthew@mail.com",
+    "username": "@matthew",
+    "address": "Address 8, City",
+    "status": 0,
+    "totalOrder": 97
+  },
+  {
+    "no": 9,
+    "name": "Olivia",
+    "email": "olivia@mail.com",
+    "username": "@olivia",
+    "address": "Address 9, City",
+    "status": 1,
+    "totalOrder": 3
+  },
+  {
+    "no": 10,
+    "name": "Sinthia",
+    "email": "sinthia@example.com",
+    "username": "@sinthia",
+    "address": "Address 10, City",
+    "status": 1,
+    "totalOrder": 56
+  }
+]
